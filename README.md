@@ -1,10 +1,14 @@
-## Hi there 👋
+## Hi, I'm Elaa! 
 
-<!--
-**elaa001/elaa001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
+🎓 3rd Year Computer Engineering Student @ Sakarya University of Applied Sciences<br/>
+🤖 Exploring the world of Artificial Intelligence, Machine Learning & Data Science<br/>
+🧪 Turning curiosity into code — one model, one dataset at a time<br/>
+🐍 Python lover | 📊 Data-driven thinker | 🚀 Always building, always learning<br/>
+<br/><br/>
 
-Here are some ideas to get you started:
 
+[![Elaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=elaa001&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
