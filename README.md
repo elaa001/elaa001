@@ -1,4 +1,8 @@
-# ❤️ Hi, I'm Elaa!
+<p align="center">
+  <img src="header.png" alt="Hello I'm Elaa" width="400px"/>
+</p>
+
+
 <br>🎓 3rd Year Computer Engineering Student @ Sakarya University of Applied Sciences<br>🤖 Exploring the world of Artificial Intelligence, Machine Learning & Data Science<br>🧪 Turning curiosity into code — one model, one dataset at a time<br>🐍 Python lover | 📊 Data-driven thinker | 🚀 Always building, always learning <br/>☁️ Currently learning about cloud concepts and Microsoft Azure Fundamentals 
 
 # 💻 Tech Stack:
