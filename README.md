@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://elaa001.github.io/Portfolio/" target="_blank">
-    <img src="header.png" alt="Hello I'm Elaa" width="600px" />
+    <img src="header.png" alt="Hello I'm Elaa" width="600px" height="280px"/>
   </a>
 </p>
 
