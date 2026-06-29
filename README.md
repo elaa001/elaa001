@@ -1,20 +1,107 @@
-<p align="center">
-  <a href="https://elaa001.github.io/Portfolio/" target="_blank">
-    <img src="header.png" alt="Hello I'm Elaa" width="600px" height="280px"/>
-  </a>
+<div align="center">
+
+# Alaa Lafi
+
+### AI Engineer | Intelligent Software Developer
+
+Building intelligent software that creates real-world impact through Artificial Intelligence, Machine Learning, and modern backend engineering.
+
+<p>
+  <a href="https://elaa001.github.io/Portfolio/">Portfolio</a> •
+  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> •
+  <a href="mailto:YOUR_EMAIL">Email</a> •
+  <a href="YOUR_RESUME_URL">Resume</a>
 </p>
 
-<p align="center">
-  <a href="https://elaa001.github.io/Portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit My Website-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="Visit Portfolio" />
-  </a>
-</p>
+</div>
 
+---
 
-🎓 4th Year Computer Engineering Student @ Sakarya University of Applied Sciences<br>🤖 Exploring the world of Artificial Intelligence, Machine Learning & Data Science<br>🧪 Turning curiosity into code — one model, one dataset at a time<br>🐍 Python lover | 📊 Data-driven thinker | 🚀 Always building, always learning <br/>☁️ Currently learning about cloud concepts and Microsoft Azure Fundamentals 
+## Engineering Philosophy
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=elaa001&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I believe AI is most valuable when it solves real problems.
+
+As a Computer Engineering graduate, I enjoy designing software that combines modern artificial intelligence with solid software engineering principles. My work focuses on building practical systems using Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), machine learning, and backend technologies to create solutions that are reliable, scalable, and genuinely useful.
+
+During my internship, I developed an Industrial AI Agent for a manufacturing environment, where I explored how AI can improve engineering workflows and knowledge retrieval. That experience reinforced my interest in building intelligent systems that move beyond research prototypes into real-world applications.
+
+---
+
+## What I'm Building
+
+- 🤖 AI Agents powered by Large Language Models
+- 📚 Retrieval-Augmented Generation (RAG) systems
+- ⚙️ Backend services with Python and FastAPI
+- 🧠 Machine Learning applications
+- 🚀 Production-ready AI solutions
+
+---
+
+## Core Technologies
+
+### Artificial Intelligence
+
+`Python` • `LangChain` • `OpenAI API` • `PyTorch` • `TensorFlow` • `Scikit-learn` • `OpenCV` • `Whisper`
+
+### Backend
+
+`FastAPI` • `ASP.NET MVC` • `Flask` • `REST APIs` • `SQL Server` • `PostgreSQL`
+
+### Frontend
+
+`HTML` • `CSS` • `JavaScript` • `Bootstrap`
+
+### Development Tools
+
+`Git` • `Docker` • `VS Code` • `Visual Studio` • `Android Studio`
+
+---
+
+## Currently Exploring
+
+- Agentic AI
+- Multi-Agent Systems
+- LLM Evaluation
+- AI Deployment & Optimization
+- Scalable Backend Architecture
+- Production AI Workflows
+
+---
+
+## Beyond Code
+
+Outside of building software, I enjoy exploring emerging AI technologies, refining user experiences, and transforming research ideas into practical applications. I'm always interested in learning how intelligent systems can improve education, engineering, and everyday workflows.
+
+I value curiosity, continuous learning, and building solutions that are both technically strong and meaningful to the people who use them.
+
+---
+
+## Looking Ahead
+
+I'm currently seeking opportunities where I can contribute to AI-powered products while continuing to grow as an AI engineer.
+
+I'm particularly interested in roles involving:
+
+- Artificial Intelligence
+- Machine Learning
+- AI Agents
+- Backend Engineering
+- Intelligent Automation
+
+---
+
+## Let's Connect
+
+I'm always happy to connect with engineers, researchers, and teams working on innovative AI products.
+
+- 🌐 Portfolio: https://elaa001.github.io/Portfolio/
+- 💼 LinkedIn: https://www.linkedin.com/in/alaalafi-profile/
+- 📧 Email: elalafi1@gmail.com
+
+---
+
+<div align="center">
+
+*"Building intelligent software that creates real-world impact."*
+
+</div>
