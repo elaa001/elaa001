@@ -8,8 +8,8 @@ Building intelligent software that creates real-world impact through Artificial 
 
 <p>
   <a href="https://elaa001.github.io/Portfolio/">Portfolio</a> •
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> •
-  <a href="mailto:YOUR_EMAIL">Email</a> •
+  <a href="https://www.linkedin.com/in/alaalafi-profile/">LinkedIn</a> •
+  <a href="mailto:elalafi1@gmail.com">Email</a> •
   <a href="YOUR_RESUME_URL">Resume</a>
 </p>
 
