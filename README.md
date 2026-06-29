@@ -17,17 +17,20 @@ Building intelligent software that creates real-world impact through Artificial 
 
 ---
 
-## Engineering Philosophy
+## About
 
-I believe AI is most valuable when it solves real problems.
+I'm a Computer Engineering graduate with a strong interest in Artificial Intelligence and intelligent software systems. Throughout my academic journey and internship, I've focused on building practical AI applications—from educational platforms powered by Large Language Models to intelligent assistants designed for manufacturing environments.
 
-As a Computer Engineering graduate, I enjoy designing software that combines modern artificial intelligence with solid software engineering principles. My work focuses on building practical systems using Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), machine learning, and backend technologies to create solutions that are reliable, scalable, and genuinely useful.
+I enjoy solving real-world problems through software, combining machine learning, backend development, and thoughtful system design to create applications that are both useful and reliable.
 
-During my internship, I developed an Industrial AI Agent for a manufacturing environment, where I explored how AI can improve engineering workflows and knowledge retrieval. That experience reinforced my interest in building intelligent systems that move beyond research prototypes into real-world applications.
 
 ---
 
-## What I'm Building
+## Current Focus
+
+I'm currently focused on developing AI-powered applications that combine Large Language Models, Retrieval-Augmented Generation (RAG), and backend engineering.
+
+I'm particularly interested in building intelligent systems that are practical, scalable, and ready for real-world use.
 
 - 🤖 AI Agents powered by Large Language Models
 - 📚 Retrieval-Augmented Generation (RAG) systems
